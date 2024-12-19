@@ -2,7 +2,7 @@
 
 A modern, real-time chat application built with Next.js 13, featuring a beautiful UI and powerful functionality.
 
-![Connectly Banner](public/assets/logo.png)
+![Connectly Banner](public/assets/image.png)
 
 ## ✨ Features
 
@@ -85,11 +85,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
 
-- Next.js team for the amazing framework
-- Vercel for hosting
-- All contributors who help improve the project
 
 ---
 
